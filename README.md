@@ -16,3 +16,12 @@ Robotics-related project involving robot programming and control systems, likely
 
 ---
 Each project folder contains its specific implementation details, documentation, and related resources. Navigate to individual project folders using `cd partX-*` commands to explore their contents.
+
+## License
+
+This project is provided for **personal use only**. Redistribution, modification, or commercial use in any form is strictly prohibited without prior written permission from the author.
+
+For detailed license terms, refer to the [LICENSE](./LICENSE.md) file.
+
+## Author
+[SearchingSteve](https://github.com/SearchingSteve)
