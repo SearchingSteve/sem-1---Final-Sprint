@@ -1,0 +1,67 @@
+[
+    {
+      "itemName" : "Zelda Ocarina of Time",
+      "itemCategory" : "Game",
+      "consoleType" : "N64",
+      "quantity" : "1",
+      "pricePaid" : "100",
+      "itemPrice": "200",
+      "condition" : "CIB - Not sealed"
+    },
+
+    {
+      "itemName" : "Super Smash Bro's Melee",
+      "itemCategory" : "Game",
+      "consoleType" : "Gamecube",
+      "quantity" : "3",
+      "pricePaid" : "50",
+      "itemPrice": "80",
+      "condition" : "CIB - Not sealed"
+    },
+
+
+    {
+      "itemName" : "PS3 Fat",
+      "itemCategory" : "Console",
+      "consoleType" : "PlayStation 3",
+      "quantity" : "4",
+      "pricePaid" : "30",
+      "itemPrice": "50",
+      "condition" : "Console Only - Working"
+    },
+
+
+    {
+      "itemName" : "Call of Duty Black ops 1",
+      "itemCategory" : "Game",
+      "consoleType" : "Xbox 360",
+      "quantity" : "2",
+      "pricePaid" : "50",
+      "itemPrice": "15",
+      "condition" : "CIB - Not sealed"
+    },
+
+
+    {
+      "itemName" : "NHL 2009",
+      "itemCategory" : "Game",
+      "consoleType" : "Xbox 360",
+      "quantity" : "1",
+      "pricePaid" : "1",
+      "itemPrice": "5",
+      "condition" : "Game Only"
+    },
+
+
+    {
+      "itemName" : "Borderlands 3",
+      "itemCategory" : "Game",
+      "consoleType" : "Xbox one",
+      "quantity" : "1",
+      "pricePaid" : "80",
+      "itemPrice": "50",
+      "condition" : "CIB - Sealed"
+    }
+
+
+]
